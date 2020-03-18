@@ -1,3 +1,3 @@
 # Lichess-Analysis
 
-EDA on lichess dataset extracted using the Lichess API
+DSS @Berkeley- EDA on lichess dataset extracted using the Lichess API
